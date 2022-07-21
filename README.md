@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **NipunaCooray/NipunaCooray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<a href="http://www.github.com/NipunaCooray"><img src="https://github-readme-stats.vercel.app/api?username=NipunaCooray&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nipuna's GitHub stats" /></a>
